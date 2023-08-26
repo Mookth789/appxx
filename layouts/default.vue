@@ -13,7 +13,7 @@
 
 
 
-
+<Tabbar />
       </div>
       </div>
 </template>
